@@ -1,0 +1,26 @@
+.headBoard {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.headMenu {
+  display: flex;
+  width: 30px;
+}
+.headTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+.headicons {
+  width: 30px;
+  display: flex;
+}
+.headTime {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
+}
